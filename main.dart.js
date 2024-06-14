@@ -89444,7 +89444,7 @@ b=t.N
 n=A.ay(["branch",i,"position",h,"name",g,"openingKm",o.z,"closingKm",o.Q,"km_travelled_today",B.d.k(o.y),"day",f,"is_sunday",String(A.aBP(new A.dL(c,!1))===7),"daily_allowance",e],b,t.z)
 q=3
 m=B.cy.TQ(n,null)
-l="https://omkar.bhaskaraa45.me/write"
+l="https://omkar.bhaskaraa45.me/write/"
 s=6
 return A.O(A.aVl(A.hA(l,0,null),m,A.ay(["Content-Type","application/json; charset=UTF-8"],b,b)),$async$yc)
 case 6:k=a1
